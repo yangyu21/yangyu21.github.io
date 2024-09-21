@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yu's Research Group"
+#title: "Yu's Research Group"
 author_profile: true
 redirect_from: 
   - /about/
