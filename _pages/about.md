@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "My Academic Pages"
+title: "Yu's Research Group"
 author_profile: true
 redirect_from: 
   - /about/
